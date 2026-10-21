@@ -1,0 +1,27 @@
+# Visual Studio 缓存目录
+.vs/
+.vscode/
+
+# 编译输出
+x64/
+bin/
+obj/
+Build/
+
+# 用户/机器相关设置
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# 调试与临时文件
+*.log
+*.tmp
+*.pdb
+*.ilk
+
+# C/C++ 编译产物
+*.exe
+*.o
+*.obj
+*.out

@@ -142,6 +142,7 @@
     <ClCompile Include="10.14.c" />
     <ClCompile Include="10.15.c" />
     <ClCompile Include="10.21.c" />
+    <ClCompile Include="10.22.c" />
     <ClCompile Include="10.8.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
